@@ -21,5 +21,6 @@ ORDER BY age DESC
 LIMIT 1;  
 Table Schema: {'name': <class 'str'>, 'age': <class 'int'>, 'major': <class 'str'>, 'email': <class 'str'>, 'address': <class 'str'>, 'city': <class 'str'>, 'state': <class 'str'>, 'country': <class 'str'>, 'phone': <class 'str'>, 'occupation': <class 'str'>}  
 SQL Response: [{'name': 'Michael Johnson', 'age': 35}]  
-Response: The oldest person is Michael Johnson and he is 35 years old.Answer: The oldest person is Michael Johnson and he is 35 years old.  
+Response: The oldest person is Michael Johnson and he is 35 years old.
+> Answer: The oldest person is Michael Johnson and he is 35 years old.  
 >   
