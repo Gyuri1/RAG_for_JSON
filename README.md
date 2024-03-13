@@ -1,4 +1,6 @@
-RAG with JSON Data
+RAG (Retrieval Augmented Generation) with JSON Data example
+
+It requires an OpenAI API key or optionally a local LLM (like Ollama, LLama2, ...) 
 
 How to install:
 ====
